@@ -28,15 +28,23 @@ Real Time Kernel book.
 
 Link [book](https://www.freertos.org/fr-content-src/uploads/2018/07/161204_Mastering_the_FreeRTOS_Real_Time_Kernel-A_Hands-On_Tutorial_Guide.pdf)
 
+---
 
 # Contents
 1. [Note and Rule](#note-and-rule)
-2. [Example2](#example2)
+2. [Heap memory managerment](#Heap-memory-managerment)
 3. [Third Example](#third-example)
 4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
 
 # Note and Rule
+this scope store note and tip for me.
+## FreeRTOSConfig.h
 
+* configUSE_16_BIT_TICKS = 1 when use 8 or 16 bit architecture. And invert when use 32 bit architecture.
+*
+
+
+# Heap memory managerment
 <!-- # 
 
 blabla
